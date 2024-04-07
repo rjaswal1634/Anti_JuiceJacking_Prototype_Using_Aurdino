@@ -6,7 +6,7 @@ circuit_diagram explains how the components are connected.
 
 juicejacking_tester.ino is the Aurdino file, which will detect the jacking and alert the user. 
 
-
+Youtube Video Project Demo : https://youtu.be/VMFpUWgNQ4w 
 
 Inspiration:
 The inspiration behind JuiceGuard was generated from the growing concern over the security risks posed by public charging stations, particularly the threat of juice jacking. With the increasing reliance on mobile devices and the proliferation of public spaces offering charging facilities, it became imperative to develop a solution to safeguard users' devices from potential data theft and malware attacks.
